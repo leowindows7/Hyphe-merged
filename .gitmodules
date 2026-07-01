@@ -1,0 +1,6 @@
+[submodule "apis-emulator"]
+	path = apis-emulator
+	url = ./apis-emulator
+[submodule "apis-tester"]
+	path = apis-tester
+	url = ./apis-tester
